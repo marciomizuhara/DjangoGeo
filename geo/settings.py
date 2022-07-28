@@ -126,7 +126,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-YELP_API_KEY = 'CXXAne8Ls1sD8NE9jmNXo5Db6caImC71S6126y4Y3oMOUjCrQgbR1vY4KfGJe6X73NNqqkXckK148tjI9ia13xxWzUP6hO7C8hto_tKBePwCNsEnrfOd38dJZLriYnYx'
+YELP_API_KEY = 'YOUR API KEY HERE'
 
 GEOIP_PATH = os.path.join(BASE_DIR, 'geoip')
 
